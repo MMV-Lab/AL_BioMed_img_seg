@@ -9,7 +9,7 @@ Conference link: [BVM 2025](https://www.bvm-conf.org/)
 This project aims to develop an active learning pipeline for biomedical image instance segmentation using a data-centric approach. It leverages **MAE (Masked Autoencoders)** for feature extraction and **nnUNet** for segmentation, enhanced with active learning and pseudo-label generation strategies.
 
 ### Pipeline
-![Pipeline](https://github.com/MMV-Lab/AL_BioMed_img_seg/tree/main/fig/pipline.png)
+![Pipeline](https://github.com/MMV-Lab/AL_BioMed_img_seg/fig/pipline.png)
 
 ---
 
