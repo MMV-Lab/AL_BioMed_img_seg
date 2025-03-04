@@ -60,7 +60,7 @@ Dataset: [3D MitoEM Challenge](https://mitoem.grand-challenge.org/)
 mkdir -p data/MitoEM_3D
 cd data
 chmod +x download_and_unzip_MitoEM_3D.sh
-./download_and_unzip_MitoEM_3D.sh /mnt/eternus/users/Shuo/project/30_BIBM_conference/github_code/data/MitoEM_3D
+./download_and_unzip_MitoEM_3D.sh /Your/path/to/MitoEM_3D
 cd ..
 ```
 
