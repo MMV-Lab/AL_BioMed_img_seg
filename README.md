@@ -182,9 +182,7 @@ Zhao, S., Zhou, Y., Chen, J. (2025). Active Learning Pipeline for Biomedical Ima
   doi       = {10.1007/978-3-658-47422-5_48}
 }
 
-
----
-
+```
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
