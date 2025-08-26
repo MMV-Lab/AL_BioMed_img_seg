@@ -164,7 +164,24 @@ CUDA_VISIBLE_DEVICES=7 python ./CellSAM/get_pseudo_label_CellSAM.py \
 
 ## Citation
 
-If you use this code or data in your research, please cite our work as presented at **BVM 2025**.
+If you use this code or data in your research, please cite our work presented at **BVM 2025**:
+
+Zhao, S., Zhou, Y., Chen, J. (2025). Active Learning Pipeline for Biomedical Image Instance Segmentation with Minimal Human Intervention. In: Palm, C., et al. *Bildverarbeitung für die Medizin 2025*. BVM 2025. Informatik aktuell. Springer Vieweg, Wiesbaden. https://doi.org/10.1007/978-3-658-47422-5_48
+
+### BibTeX
+```bibtex
+@inproceedings{zhao2025active,
+  author    = {Shuo Zhao and Ye Zhou and Jianxu Chen},
+  title     = {Active Learning Pipeline for Biomedical Image Instance Segmentation with Minimal Human Intervention},
+  booktitle = {Bildverarbeitung f{\"u}r die Medizin 2025 (BVM 2025)},
+  editor    = {Christian Palm and others},
+  series    = {Informatik aktuell},
+  publisher = {Springer Vieweg},
+  address   = {Wiesbaden},
+  year      = {2025},
+  doi       = {10.1007/978-3-658-47422-5_48}
+}
+
 
 ---
 
